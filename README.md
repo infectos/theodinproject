@@ -6,6 +6,7 @@ We teach:
 * Sinatra
 * Ruby on Rails
 * SQL
+rwr
 * HTML and CSS
 * Javascript and Jquery
 * How to go about getting a job in the industry
